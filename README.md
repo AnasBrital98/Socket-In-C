@@ -1,5 +1,5 @@
 # Socket in C
-This Repository cantains some examples of socket in C .
+This Repository contains some examples of socket in C implemented in Linux Operating System .
 
 ## Example 1 : 
 
